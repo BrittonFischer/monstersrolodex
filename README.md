@@ -1,3 +1,10 @@
+## Archived
+
+This was initial project to introduce myself to React, it has since become unnecessary and unwanted clutter.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
